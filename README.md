@@ -1,6 +1,6 @@
 # CruciSolver — Spanish Crossword Solver
 
-NLP final project by Ander Peña, Josu Bayer, and Mikel Molina (UPV/EHU, 2025).
+NLP final project by Ander Peña, Josu Bayer, and Mikel Molina (UPV/EHU, 2026).
 
 We build a complete pipeline for solving Spanish crossword puzzles end-to-end, combining a fine-tuned seq2seq model (ByT5), a dense bi-encoder retriever (RigoBERTa), Belief Propagation for grid-level constraint satisfaction, and two stages of local search.
 
